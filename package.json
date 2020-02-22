@@ -1,7 +1,7 @@
 {
   "name": "toy-robot",
   "version": "1.0.0",
-  "description": "REATest",
+  "description": "toy-robot",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js",
